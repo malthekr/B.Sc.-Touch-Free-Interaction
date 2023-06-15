@@ -12,3 +12,5 @@ Here is a list of what the different folders contain:
 **Testing Results** : Pictures acquired through testing
 
 **Website** : Website showing display
+
+![flowchart](https://github.com/thorGabe123/B.Sc.-Touch-Free-Interaction/blob/main/flowchart_signal_processing.png?raw=true)
